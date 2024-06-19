@@ -1,4 +1,4 @@
-# Roman's D&D Dice Roller
+# D&D Dice Roller
 
 This dice roller is able to take a die of your choosing and roll it as many times as you wish. Other capabilities include:
 - Changing your die type
