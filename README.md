@@ -16,3 +16,6 @@ After this point, you're able to access a menu to do the previous capabilities m
 > **D20, D12, D10, D8, D6, D4**
 >
 > I also plan to add specific rolls such as rolling for damage, hits, etc.
+
+## Dependencies
+- Latest version of Java JDK
